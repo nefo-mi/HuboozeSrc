@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "2011年11月頃のハブ"
+title: "2011年11月頃のハブ 串おやじ"
 date: 2011-11-01 00:53
 comments: true
 categories: 

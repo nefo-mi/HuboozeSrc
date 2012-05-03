@@ -12,5 +12,6 @@ categories:
   - 安いし良いね！
   - 旨いし良いね！
 ## 北海道ラーメン 追風丸
-  - http://ramen.tedaco.net/ramen.php?id=163
+  - [http://ramen.tedaco.net/ramen.php?id=163](http://ramen.tedaco.net/ramen.php?id=163)
   - うまし！
+![白味噌ラーメン](http://distilleryimage7.s3.amazonaws.com/a87f0cbc75a211e1989612313815112c_7.jpg "白味噌ラーメン")

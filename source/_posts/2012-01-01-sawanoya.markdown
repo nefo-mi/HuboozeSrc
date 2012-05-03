@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "2012年1月のハブ"
+title: "2012年1月のハブ 澤の家"
 date: 2012-01-01 00:53
 comments: true
 categories: 
